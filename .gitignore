@@ -1,0 +1,4 @@
+client/node_modules
+server/node_modules
+# Keep environment variables out of version control
+server/.env
